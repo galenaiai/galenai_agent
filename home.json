@@ -175,7 +175,9 @@
                     "Access 100+ Units"
                 ],
                 "price_m": "0.00",
-                "price_y": "0.00"
+                "price_y": "0.00",
+                "buttonTxt": "SIGN UP FOR FREE"
+                
             },
             {
                 "topic": "Basic",
@@ -185,7 +187,8 @@
                     "Access 1000+ Units"
                 ],
                 "price_m": "5.90",
-                "price_y": "39.00"
+                "price_y": "39.00",
+                "buttonTxt": "Upgrade plan"
             },
             {
                 "topic": "Pro",
@@ -195,7 +198,8 @@
                     "Access Unlimited Units"
                 ],
                 "price_m": "11.90",
-                "price_y": "79.00"
+                "price_y": "79.00",
+                "buttonTxt": "Become pro"
             }
         ],
         "keys": [
