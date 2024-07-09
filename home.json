@@ -427,7 +427,22 @@
             }
         ]
     },
-    "FaQ": [
+    "FaqData":{
+        "faq2": [
+            {
+                "q": "What Types Of Courses Does Galenai Offer?",
+                "a": "Galenai offers a variety of courses ranging from beginner to advanced levels in fields such as programming, graphic design, AI tools, and more. Each course is designed to be practical and engaging to maximize learning."
+            },
+            {
+                "q": "Can I Access Galenai Courses On My Mobile Device?",
+                "a": "Yes, Galenai is fully accessible on mobile devices, allowing you to learn on-the-go. The mobile interface is optimized for a seamless learning experience, adapting to different screen sizes and orientations."
+            },
+            {
+                "q": "What Are The Payment Options For Galenai Courses?",
+                "a": "Galenai offers various payment options, including credit card, PayPal, and Galena tokens. Flexible payment plans are also available to make learning accessible for everyone."
+            }
+    ],
+    "faq1": [
         {
             "q": "What Is Galenai?",
             "a": "Galenai is an educational platform that provides AI-made tutorials focusing on a wide range of skills including coding, designing, and mastering AI tools."
@@ -439,20 +454,9 @@
         {
             "q": "What Makes Galenai Unique?",
             "a": "Galenai combines hands-on learning with AI-driven content to provide a personalized and effective learning experience, tailored to enhance your skills in technology and design."
-        },
-        {
-            "q": "What Types Of Courses Does Galenai Offer?",
-            "a": "Galenai offers a variety of courses ranging from beginner to advanced levels in fields such as programming, graphic design, AI tools, and more. Each course is designed to be practical and engaging to maximize learning."
-        },
-        {
-            "q": "Can I Access Galenai Courses On My Mobile Device?",
-            "a": "Yes, Galenai is fully accessible on mobile devices, allowing you to learn on-the-go. The mobile interface is optimized for a seamless learning experience, adapting to different screen sizes and orientations."
-        },
-        {
-            "q": "What Are The Payment Options For Galenai Courses?",
-            "a": "Galenai offers various payment options, including credit card, PayPal, and Galena tokens. Flexible payment plans are also available to make learning accessible for everyone."
         }
-    ],
+    ]
+},
     "footerData":{
     "footer1Topic": "EXPLORE NEW HORIZONS",
     "footer1Description": "Unlock exclusive features and content with your upgraded plan. Don’t miss out!",
