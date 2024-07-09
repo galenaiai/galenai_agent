@@ -169,6 +169,7 @@
         "plans": [
             {
                 "topic": "Free",
+                "keys": "10",
                 "description": "No credit card needed",
                 "points": [
                     "10 Monthly keys",
@@ -181,6 +182,7 @@
             },
             {
                 "topic": "Basic",
+                "keys": "50",
                 "description": "Perfect choice for getting started",
                 "points": [
                     "50 Monthly keys",
@@ -188,10 +190,11 @@
                 ],
                 "price_m": "5.90",
                 "price_y": "39.00",
-                "buttonTxt": "UPGRADE PLAN"
+                "buttonTxt": "Upgrade plan"
             },
             {
                 "topic": "Pro",
+                "keys": "200",
                 "description": "Unlock galenai full potential",
                 "points": [
                     "Unlimited keys",
@@ -199,7 +202,7 @@
                 ],
                 "price_m": "11.90",
                 "price_y": "79.00",
-                "buttonTxt": "BECOME PRO"
+                "buttonTxt": "Become pro"
             }
         ],
         "keys": [
