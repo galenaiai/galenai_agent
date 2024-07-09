@@ -188,7 +188,7 @@
                 ],
                 "price_m": "5.90",
                 "price_y": "39.00",
-                "buttonTxt": "Upgrade plan"
+                "buttonTxt": "UPGRADE PLAN"
             },
             {
                 "topic": "Pro",
@@ -199,7 +199,7 @@
                 ],
                 "price_m": "11.90",
                 "price_y": "79.00",
-                "buttonTxt": "Become pro"
+                "buttonTxt": "BECOME PRO"
             }
         ],
         "keys": [
