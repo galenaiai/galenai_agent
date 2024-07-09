@@ -1,15 +1,16 @@
 {
-"sliderList": [
-    'PROGRAMMING',
-    'DB STRUCTURE',
-    'WEB DEV',  
-    'DESIGN & ',
-    'FRONT-END',  
-    'BACK-END',  
-    'MOBILE',
-    'PRODUCT',
-    'DEVOPS',
-    'Q.A.',
-    'CLOUD',
-    'A.I.'
-]}
+    "sliderList": [
+        "PROGRAMMING",
+        "DB STRUCTURE",
+        "WEB DEV",
+        "DESIGN & ",
+        "FRONT-END",
+        "BACK-END",
+        "MOBILE",
+        "PRODUCT",
+        "DEVOPS",
+        "Q.A.",
+        "CLOUD",
+        "A.I."
+    ]
+}
