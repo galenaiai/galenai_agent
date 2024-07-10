@@ -172,7 +172,6 @@
                 "keys": "10",
                 "description": "No credit card needed",
                 "points": [
-                    "10 Monthly keys",
                     "Access 100+ Units"
                 ],
                 "price_m": "0.00",
@@ -185,7 +184,6 @@
                 "keys": "50",
                 "description": "Perfect choice for getting started",
                 "points": [
-                    "50 Monthly keys",
                     "Access 1000+ Units"
                 ],
                 "price_m": "5.90",
@@ -197,7 +195,6 @@
                 "keys": "200",
                 "description": "Unlock galenai full potential",
                 "points": [
-                    "Unlimited keys",
                     "Access Unlimited Units"
                 ],
                 "price_m": "11.90",
