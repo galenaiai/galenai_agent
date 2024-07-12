@@ -147,23 +147,23 @@
     "AboutData": "At Galenai, we revolutionize learning by integrating practical, immediate, and interactive educational experiences. Our AI-driven platform tailors real-world skills directly to your personal and professional goals, making learning not just effective but truly engaging. We're dedicated to making continuous education accessible and enjoyable, enabling you to apply new knowledge instantly in everyday scenarios.",
     "howToUseData": {
         "steps": [
-            {
-                "topic": "SIGN UP",
-                "description": "Register and create your personal profile to start your learning journey."
-            },
-            {
-                "topic": "SELECT A COURSE",
-                "description": "Choose a course from a variety of Trails and Steps tailored to enhance your skills."
-            },
-            {
-                "topic": "ENGAGE WITH CONTENT",
-                "description": "Engage with interactive tutorials and practical tasks in the Electron app."
-            },
-            {
-                "topic": "TRACK YOUR PROGRESS",
-                "description": "Monitor your progress, earn badges, and review your achievements in your profile."
-            }
-        ]
+    {
+        "topic": "CREATE YOUR ACCOUNT",
+        "description": "Sign up to personalize your learning experience and begin your educational journey."
+    },
+    {
+        "topic": "EXPLORE UNITS",
+        "description": "Browse through a wide range of units, each tailored to different levels and covering a variety of fields."
+    },
+    {
+        "topic": "LEARN ACTIVELY",
+        "description": "Participate in interactive tutorials and hands-on activities within the Electron app."
+    },
+    {
+        "topic": "MONITOR YOUR PROGRESS",
+        "description": "Keep track of your learning milestones, earn badges, and review your accomplishments in your profile."
+    }
+]
     },
     "PlansData": {
         "plans": [
