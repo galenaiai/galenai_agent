@@ -20,128 +20,339 @@
     },
     "collectionData": {
         "units1": [
-            {
-                "id": "321",
-                "topic": "Magic Number Game",
-                "imageUrl": null,
-                "description": "Create a simple game where users guess a random number between 1 and 100."
-            },
-            {
-                "id": "322",
-                "topic": "Personal Website",
-                "imageUrl": null,
-                "description": "Build a basic personal website with about, portfolio, and contact pages using HTML and CSS."
-            },
-            {
-                "id": "323",
-                "topic": "Weather Dashboard",
-                "imageUrl": null,
-                "description": "Create a dashboard that displays weather information using an API."
-            },
-            {
-                "id": "324",
-                "topic": "Blog Engine",
-                "imageUrl": null,
-                "description": "Develop a simple blog engine with posts and comments using a web framework."
-            },
-            {
-                "id": "325",
-                "topic": "AI Chatbot",
-                "imageUrl": null,
-                "description": "Build a chatbot using an AI platform to understand and respond to user queries."
-            },
-            {
-                "id": "326",
-                "topic": "E-commerce Backend",
-                "imageUrl": null,
-                "description": "Develop a full-featured backend for an e-commerce application handling products, users, and orders."
-            },
-            {
-                "id": "327",
-                "topic": "Calculator App",
-                "imageUrl": null,
-                "description": "Design a simple calculator app that performs basic arithmetic operations."
-            },
-            {
-                "id": "328",
-                "topic": "Task Tracker",
-                "imageUrl": null,
-                "description": "Build a task management application to add, delete, and update tasks."
-            },
-            {
-                "id": "329",
-                "topic": "Real-time Chat Application",
-                "imageUrl": null,
-                "description": "Create a real-time chat application where users can send messages instantly."
-            },
-            {
-                "id": "338",
-                "topic": "Birthday Countdown",
-                "imageUrl": null,
-                "description": "Write a program that counts down the days until the user's next birthday."
-            }
+{
+            "ranking": 10,
+            "participated": 5,
+            "created_by_figure": "/assets/images/milestones/milestone3.png",
+            "id": 321,
+            "unicode": "UNIT100",
+            "topic": "Magic Number Game",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/unit100-ilY5YTIpjZsnpx2RS8VIOxchAdU1Hq-xE6yKCcmvyDOLcfk13ZhUtGtPTqLME.png",
+            "permission": "free",
+            "description": "Create a simple game where users guess a random number between 1 and 100.",
+            "stack": [
+                "Python"
+            ]
+        },
+        {
+            "ranking": 10,
+            "participated": 3,
+            "created_by_figure": "",
+            "id": 322,
+            "unicode": "UNIT101",
+            "topic": "Personal Website",
+            "level": 2,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT101-cn1sDwUG68NW1bagAnF9i9K2dYAc2T-caeneCq64IYDkPu3wa3Qkej2g19EQF.png",
+            "permission": "free",
+            "description": "Build a basic personal website with about, portfolio, and contact pages using HTML and CSS.",
+            "stack": [
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 323,
+            "unicode": "UNIT102",
+            "topic": "Weather Dashboard",
+            "level": 3,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/unit102-2dhvastHOyqQrvQ7r02Ac9JlDmVPgk-9181GZxBBXsYT4GH80xR5L6xJ9E1Ye.png",
+            "permission": "pro",
+            "description": "Create a dashboard that displays weather information using an API.",
+            "stack": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 324,
+            "unicode": "UNIT103",
+            "topic": "Blog Engine",
+            "level": 4,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/unit103-tReAytBBprSC802V5VSO5vOaol0Sdo-V18vkdgWLqjf276rbAvepgpA7PhSyq.png",
+            "permission": "pro",
+            "description": "Develop a simple blog engine with posts and comments using a web framework.",
+            "stack": [
+                "Ruby on Rails",
+                "SQLite"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 325,
+            "unicode": "UNIT104",
+            "topic": "AI Chatbot",
+            "level": 5,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT104-fksofmo0MQP1XfnL81bdMT8m4MpBwU-A8CNSA347bZKmtmjo2doZ7WbTEbraL.png",
+            "permission": "pro",
+            "description": "Build a chatbot using an AI platform to understand and respond to user queries.",
+            "stack": [
+                "Python",
+                "TensorFlow"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 326,
+            "unicode": "UNIT105",
+            "topic": "E-commerce Backend",
+            "level": 6,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT105-F6TeRxM80lscXviLWTrZJT7iu8frbF-4HnUNzHuPylApfYfvC94hCeNQIgxFG.png",
+            "permission": "pro",
+            "description": "Develop a full-featured backend for an e-commerce application handling products, users, and orders.",
+            "stack": [
+                "Node.js",
+                "Express",
+                "MongoDB"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 327,
+            "unicode": "UNIT106",
+            "topic": "Calculator App",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT106-qc56iWwnaodtnq4xkZww6JFPi4Vah8-GsXRb3LWXeoSx3dPC1X2hPfnXPjuOP.png",
+            "permission": "free",
+            "description": "Design a simple calculator app that performs basic arithmetic operations.",
+            "stack": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 328,
+            "unicode": "UNIT108",
+            "topic": "Task Tracker",
+            "level": 3,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT108-DluMqZTRyUJ1tDLNT8IfETfTm0RITz-177sbGBf1saUybpKzmY0MTy7kSSAoZ.png",
+            "permission": "pro",
+            "description": "Build a task management application to add, delete, and update tasks.",
+            "stack": [
+                "React"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 329,
+            "unicode": "UNIT109",
+            "topic": "Real-time Chat Application",
+            "level": 4,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT109-zU4h46ZnfiAwuQl3tI33MGma4ilCnp-CNIdjNn4aiutRSOkaPWlAyie0EMJWH.png",
+            "permission": "pro",
+            "description": "Create a real-time chat application where users can send messages instantly.",
+            "stack": [
+                "Node.js",
+                "Socket.io",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "ranking": 6,
+            "participated": 9,
+            "created_by_figure": "",
+            "id": 338,
+            "unicode": "UNIT111",
+            "topic": "Birthday Countdown",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/unit111-bml88nKu4HY768pQceDJU5S8ZJjr15-zrPwJlPdffu80tod1AasIP4hXJf0gM.png",
+            "permission": "free",
+            "description": "Write a program that counts down the days until the user's next birthday.",
+            "stack": [
+                "Python"
+            ]
+        }
         ],
         "units2": [
-            {
-                "id": "339",
-                "topic": "Grocery List Organizer",
-                "imageUrl": null,
-                "description": "Develop a simple application to add, remove, and list grocery items."
-            },
-            {
-                "id": "340",
-                "topic": "Expense Tracker",
-                "imageUrl": null,
-                "description": "Create a program to track expenses and provide a total amount spent."
-            },
-            {
-                "id": "341",
-                "topic": "Simple Interest Calculator",
-                "imageUrl": null,
-                "description": "Program a calculator to compute simple interest from principal, rate, and time."
-            },
-            {
-                "id": "342",
-                "topic": "Unit Converter",
-                "imageUrl": null,
-                "description": "Develop a tool that converts units like kilometers to miles, kilograms to pounds, etc."
-            },
-            {
-                "id": "343",
-                "topic": "Number Guessing Game",
-                "imageUrl": null,
-                "description": "A game where the computer randomly selects a number and the user has to guess it."
-            },
-            {
-                "id": "344",
-                "topic": "Pet Simulator",
-                "imageUrl": null,
-                "description": "Develop a virtual pet simulator where users can feed, play with, and care for a digital pet."
-            },
-            {
-                "id": "345",
-                "topic": "Superhero Name Generator",
-                "imageUrl": null,
-                "description": "Build a fun tool that generates superhero names based on user inputs."
-            },
-            {
-                "id": "346",
-                "topic": "Alien Invasion Game",
-                "imageUrl": null,
-                "description": "Create a simple 2D shooter game where players must defend the earth from an alien invasion."
-            },
-            {
-                "id": "347",
-                "topic": "Magic 8 Ball",
-                "imageUrl": null,
-                "description": "Implement a magic 8 ball simulator that provides random responses to user questions."
-            },
-            {
-                "id": "348",
-                "topic": "Dungeon Escape Game",
-                "imageUrl": null,
-                "description": "Build a text-based dungeon escape game where players choose paths to try and escape."
-            }
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 339,
+            "unicode": "UNIT112",
+            "topic": "Grocery List Organizer",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT112-V7XU0nH7Aac2sJRHHU0obut0CQsu48-pnqodVZgkCRqM8Accihtr7dj2hwqkH.png",
+            "permission": "free",
+            "description": "Develop a simple application to add, remove, and list grocery items.",
+            "stack": [
+                "Python"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 340,
+            "unicode": "UNIT113",
+            "topic": "Expense Tracker",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT113-kWFQSid38fEf85KfhBs0wlfNE4iC7i-3InKUP9s3gpVrgh5zGqUkDeicChpm1.png",
+            "permission": "free",
+            "description": "Create a program to track expenses and provide a total amount spent.",
+            "stack": [
+                "Python"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 341,
+            "unicode": "UNIT115",
+            "topic": "Simple Interest Calculator",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT115-wondH16hv4HSqbHUWXnSDdlYus6rwf-lrsteU2fdxDHUoGVwePbJMo8MaaJxV.png",
+            "permission": "free",
+            "description": "Program a calculator to compute simple interest from principal, rate, and time.",
+            "stack": [
+                "Python"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 342,
+            "unicode": "UNIT116",
+            "topic": "Unit Converter",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT116-mvvz2RNM6JC0vleP4fP1t9DB9PdQR7-YleFmzx35gPYcL6TQFAb5CCzHUVki4.png",
+            "permission": "free",
+            "description": "Develop a tool that converts units like kilometers to miles, kilograms to pounds, etc.",
+            "stack": [
+                "Python"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 343,
+            "unicode": "UNIT118",
+            "topic": "Number Guessing Game",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT118-iyuPkcls2qQP3jfmqk1846gyyOBSlM-FicgktRqu93wev1I9ZvArqjgCANeZx.png",
+            "permission": "free",
+            "description": "A game where the computer randomly selects a number and the user has to guess it.",
+            "stack": [
+                "Python"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 344,
+            "unicode": "UNIT156",
+            "topic": "Pet Simulator",
+            "level": 2,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT156-CQggvwkkjQbtuj3AKFFElvNTQnBJqE-dRzzmzJLKy5BqgZGvCejwScri6eO6s.png",
+            "permission": "free",
+            "description": "Develop a virtual pet simulator where users can feed, play with, and care for a digital pet.",
+            "stack": [
+                "Java"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 345,
+            "unicode": "UNIT157",
+            "topic": "Superhero Name Generator",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT157-6zh5Z17qiamFo78hTrTlSLtf4YHZO9-oqrixqqvbCDnksWh1PbQUmPUL208J5.png",
+            "permission": "free",
+            "description": "Build a fun tool that generates superhero names based on user inputs.",
+            "stack": [
+                "Python"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 346,
+            "unicode": "UNIT158",
+            "topic": "Alien Invasion Game",
+            "level": 2,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT158-qRYKhjDZ0gEtpcjuT805r14aa7rVKT-HSuK2VH2HyxwAYExY9nYh3MwchP0Yv.png",
+            "permission": "free",
+            "description": "Create a simple 2D shooter game where players must defend the earth from an alien invasion.",
+            "stack": [
+                "JavaScript",
+                "HTML5 Canvas"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 347,
+            "unicode": "UNIT159",
+            "topic": "Magic 8 Ball",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT159-2JYq96JoLkEa0G9UVxDRgghSMNmBXP-Uo8kXyDbIelktGBs68nyfkXDfhJTY6.png",
+            "permission": "free",
+            "description": "Implement a magic 8 ball simulator that provides random responses to user questions.",
+            "stack": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 348,
+            "unicode": "UNIT161",
+            "topic": "Dungeon Escape Game",
+            "level": 1,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT161-foLck1rqf8fHDpIx2fPqa1nG8CHz9s-UU4DwkstiHL37Urd0GQi722uL1N2Xb.png",
+            "permission": "free",
+            "description": "Build a text-based dungeon escape game where players choose paths to try and escape.",
+            "stack": [
+                "Python"
+            ]
+        },
+        {
+            "ranking": 0,
+            "participated": 0,
+            "created_by_figure": "",
+            "id": 349,
+            "unicode": "UNIT166",
+            "topic": "Blockchain Simulator",
+            "level": 4,
+            "imageUrl": "https://ehyorji0tsssnfk8.public.blob.vercel-storage.com/images/units2/UNIT166-vRyuXSaHwr9fWcVhkeAUuVwG45EFLD-iL3AD0fep0mJMeClSopHLsKFJRAlxy.png",
+            "permission": "pro",
+            "description": "Create a basic blockchain simulator to understand how transactions and blocks are handled.",
+            "stack": [
+                "JavaScript",
+                "Node.js"
+            ]
+        }
         ]
     },
     "AboutData": "At Galenai, we revolutionize learning by integrating practical, immediate, and interactive educational experiences. Our AI-driven platform tailors real-world skills directly to your personal and professional goals, making learning not just effective but truly engaging. We're dedicated to making continuous education accessible and enjoyable, enabling you to apply new knowledge instantly in everyday scenarios.",
