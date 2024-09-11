@@ -381,9 +381,11 @@
             {
                 "topic": "Free",
                 "keys": "10",
-                "description": "No credit card needed",
+                "description": "Get started, explore interest, No credit card needed",
                 "points": [
-                    "Access 2 Levels"
+                    "Access 2 first sessions of all beginners units",
+                    "1000 Monthly AI tokens",
+                    "limited version"
                 ],
                 "price_m": "0.00",
                 "price_y": "0.00",
@@ -391,22 +393,13 @@
                 
             },
             {
-                "topic": "Basic",
-                "keys": "50",
-                "description": "Perfect choice for getting started",
-                "points": [
-                    "Access 4 Levels"
-                ],
-                "price_m": "5.90",
-                "price_y": "59.00",
-                "buttonTxt": "UPGRADE PLAN"
-            },
-            {
                 "topic": "Pro",
                 "keys": "200",
-                "description": "Unlock galenai full potential",
+                "description": "grow with no limits",
                 "points": [
-                    "Access 6 Levels"
+                    "Access all sessions over every unit",
+                    "Unlimited AI tokens",
+                    "Access to new features and content"
                 ],
                 "price_m": "11.90",
                 "price_y": "99.00",
